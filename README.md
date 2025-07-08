@@ -24,8 +24,7 @@ Install Python di sistem kamu. Download Python dari situs resmi: https://www.pyt
 
 **Kontribusi**
 <br>
-Saya sangat senang jika Anda ingin berkontribusi pada proyek ini!
-Berikut langkah-langkah sederhana untuk mulai berkontribusi:
+Saya sangat senang jika Anda ingin berkontribusi pada proyek ini! Berikut langkah-langkah sederhana untuk mulai berkontribusi:
 1. Fork repositori ini
 2. Buat branch baru untuk fitur atau perbaikan Anda
 3. Lakukan perubahan dan commit
