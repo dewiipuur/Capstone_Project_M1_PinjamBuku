@@ -12,13 +12,13 @@ Install Python di sistem kamu. Download Python dari situs resmi: https://www.pyt
 
 **Fitur Utama**
 <br>
--	Daftar Buku		    : Menampilkan semua buku
--	Pencarian Buku 	  : Pencarian buku berdasarka ID, Judul, Penulis, Tahun, Genre & Penerbit
--	Tambah Buku		    : Menambah buku baru
--	Update Buku		    : Mengupdate data buku yang sudah ada di dalam system.
--	Hapus Buku		    : Menghapus data buku
--	Pinjam Buku		    : Meminjam buku dilengkapi dengan input nama peminjam dan tanggal pinjam
--	Pengembalian Buku	: Mengembalikan buku yang telah dipinjam
+-	**Daftar Buku**		    : Menampilkan semua buku
+-	**Pencarian Buku** 	  : Pencarian buku berdasarka ID, Judul, Penulis, Tahun, Genre & Penerbit
+-	**Tambah Buku**		    : Menambah buku baru
+-	**Update Buku**		    : Mengupdate data buku yang sudah ada di dalam system.
+-	**Hapus Buku**		    : Menghapus data buku
+-	**Pinjam Buku**		    : Meminjam buku dilengkapi dengan input nama peminjam dan tanggal pinjam
+-	**Pengembalian Buku**	: Mengembalikan buku yang telah dipinjam
 <br>
 <br>
 
